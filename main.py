@@ -82,6 +82,7 @@ class Window(QWidget):
         self.mediaPlayer.setPosition(position)
 
 
+
 app = QApplication(sys.argv)
 window = Window()
 window.show()
