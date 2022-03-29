@@ -15,7 +15,7 @@ class Window(QWidget):
         self.setGeometry(350,100, 700,500)
 
         p = self.palette()
-        p.setColor(QPalette.Window, Qt.red)
+        p.setColor(QPalette.Window, Qt.gray)
         self.setPalette(p)
 
         self.create_player()
