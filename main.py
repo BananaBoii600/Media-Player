@@ -1,4 +1,3 @@
-from fileinput import filename
 from PyQt5.QtWidgets import QApplication, QFileDialog, QSlider, QWidget, QPushButton, QStyle, QHBoxLayout, QVBoxLayout
 from PyQt5.QtCore import Qt, QUrl
 from PyQt5.QtGui import QIcon, QPalette
